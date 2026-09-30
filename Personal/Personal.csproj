@@ -11,4 +11,8 @@
       <Folder Include="imagenes_Fer\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Fergie.html" />
+    </ItemGroup>
+
 </Project>
